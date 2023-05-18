@@ -1,0 +1,12 @@
+C:\Users\Elmotakhasess\source\repos\ff\ff\x64\Debug\ff.vcxproj.AssemblyReference.cache
+C:\Users\Elmotakhasess\source\repos\ff\ff\x64\Debug\ff.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Elmotakhasess\source\repos\ff\ff\x64\Debug\ff.MyForm.resources
+C:\Users\Elmotakhasess\source\repos\ff\ff\x64\Debug\ff.vcxproj.GenerateResource.cache
+C:\Users\Al-Quds\source\repos\ff\ff\x64\Debug\ff.vcxproj.AssemblyReference.cache
+C:\Users\Al-Quds\source\repos\ff\ff\x64\Debug\ff.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Al-Quds\source\repos\ff\ff\x64\Debug\ff.MyForm.resources
+C:\Users\Al-Quds\source\repos\ff\ff\x64\Debug\ff.vcxproj.GenerateResource.cache
+C:\Users\Elmotakhasess\source\repos\task2\ff\x64\Debug\ff.vcxproj.AssemblyReference.cache
+C:\Users\Elmotakhasess\source\repos\task2\ff\x64\Debug\ff.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Elmotakhasess\source\repos\task2\ff\x64\Debug\ff.MyForm.resources
+C:\Users\Elmotakhasess\source\repos\task2\ff\x64\Debug\ff.vcxproj.GenerateResource.cache
